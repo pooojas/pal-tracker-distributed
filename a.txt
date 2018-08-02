@@ -1,6 +1,0 @@
-cd ~/workspace/assignment-submission
-./gradlew cloudNativeDeveloperDistributedSystemDeployment\
-    -PregistrationServerUrl=https://registration-pal-mrugen.apps.evans.pal.pivotal.io\
-    -PbacklogServerUrl=https://backlog-pal-poojsharma.apps.evans.pal.pivotal.io\
-    -PallocationsServerUrl=https://allocations-pal-poojsharma.apps.evans.pal.pivotal.io\
-    -PtimesheetsServerUrl=https://timesheets-pal-mrugen.apps.evans.pal.pivotal.io
